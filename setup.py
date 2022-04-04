@@ -27,7 +27,5 @@ setup(
     # long_description=open("README.md").read(),
 
     # Dependent packages (distributions)
-    install_requires=[
-        "django>=4.0.2",
-    ],
+    install_requires=[],
 )
